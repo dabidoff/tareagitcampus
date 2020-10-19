@@ -2,3 +2,6 @@
 <head>
 <title>
 Esta es una práctica de Git.
+</title>
+</head>
+<body>
