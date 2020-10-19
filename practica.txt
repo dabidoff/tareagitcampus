@@ -4,3 +4,6 @@
 Esta es una práctica de Git.
 </title>
 </head>
+<body>
+<p> Esto es un párrafo </p>
+</body>
